@@ -95,7 +95,7 @@
     "loopback-connector-mongodb": "^3.3.0",
     "method-override": "^2.3.0",
     "moment": "^2.19.3",
-    "moment-timezone": "^0.5.14",
+    "moment-timezone": "^0.5.35",
     "mongodb": "^3.0.4",
     "morgan": "^1.6.1",
     "mousetrap": "~1.6.0",
